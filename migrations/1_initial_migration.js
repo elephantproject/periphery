@@ -2,7 +2,7 @@ const ROUTER1 = artifacts.require('UniswapV2Router01.sol')
 const ROUTER2 = artifacts.require('UniswapV2Router02.sol')
 const MIGRATOR = artifacts.require('UniswapV2Migrator.sol')
 
-const factory = '0xCB6F8286DC593eeA6D428f1Dfa0A62FEE6B294a3'
+const factory = '0x0Dea90EC11032615E027664D2708BC292Bbd976B'
 const testnetfactory = '0x663eeee1CcE3754799351cc707C34b5F0fc0A11A'
 
 
