@@ -2,20 +2,6 @@
 # yarn lockfile v1
 
 
-"@elephantdefi/core@1.5.6":
-  version "1.5.6"
-  resolved "https://registry.yarnpkg.com/@elephantdefi/core/-/core-1.5.6.tgz#ecdbe32d7442c89583e2d4987507f883c3023812"
-  integrity sha512-GOk37Mrn4+99//7X5sUF1/8gfvKyfZQC3GSgpCzV+j5T+tsaRhNfgV19zN+Ry8ISzPoddtCMyRyeYD/EdP7JRg==
-  dependencies:
-    "@harmony-js/core" "^0.1.57"
-    dotenv "^10.0.0"
-    tslib "^2.3.0"
-
-"@elephantdefi/lib@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@elephantdefi/lib/-/lib-0.0.1.tgz#9e4cbded1fd6b3f61a14057863942f41dab09ba1"
-  integrity sha512-6jWvgyS6sQIDrMkvhszuppoKeEXXPPRGUN/MxVKAq0pcgMY7S0RIqaBepK6pN9vYyp4yjLWErwY+BqO7ORAM2w==
-
 "@ethereum-waffle/chai@^2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@ethereum-waffle/chai/-/chai-2.5.1.tgz#8bdc055952fc80ff78132571396a2771a36d97ae"
@@ -2075,6 +2061,20 @@ electron-to-chromium@^1.3.47:
   version "1.3.682"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.682.tgz#f4b5c8d4479df96b61e508a721d6c32c1262ef23"
   integrity sha512-zok2y37qR00U14uM6qBz/3iIjWHom2eRfC2S1StA0RslP7x34jX+j4mxv80t8OEOHLJPVG54ZPeaFxEI7gPrwg==
+
+elephantdexcore@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/elephantdexcore/-/elephantdexcore-2.0.1.tgz#91fb8b649fb8d32a8471912253812596d4e2383a"
+  integrity sha512-FXoM7UeAid3H1jC6UrqrmbroAWdSY/5iIf7Wx+9S9cujJzi791RRGDSIOyT2yc6YWDR8m6xizXiftG0hCfyoIw==
+  dependencies:
+    "@harmony-js/core" "^0.1.57"
+    dotenv "^10.0.0"
+    tslib "^2.3.0"
+
+elephantdexlib@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/elephantdexlib/-/elephantdexlib-2.0.1.tgz#5eece4186198a6c4b8ed2132a038d81d9f561906"
+  integrity sha512-SkUxcLyt3WUMuGtKU9WHaN61WtXFQkum8mP/jEhgsY7dR1vTGctaXL/fl3eKn88yWtWVDhOc6jrWC/298UnHTg==
 
 elliptic@6.5.3:
   version "6.5.3"

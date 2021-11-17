@@ -1,7 +1,7 @@
 {
-  "name": "@elephantdefi/periphery",
-  "version": "1.5.6",
-  "description": "🎚 Peripheral smart contracts for interacting with the Elephant exchanges",
+  "name": "elephantdexperiphery",
+  "version": "2.0.1",
+  "description": "🎚 Peripheral smart contracts for interacting with the Elephant Dex",
   "engines": {
     "node": ">=10"
   },
@@ -15,8 +15,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@elephantdefi/core": "1.5.6",
-    "@elephantdefi/lib": "0.0.1",
+    "elephantdexcore": "2.0.1",
+    "elephantdexlib": "2.0.1",
     "@harmony-js/core": "^0.1.57",
     "dotenv": "^10.0.0",
     "tslib": "^2.3.0"
