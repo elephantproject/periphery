@@ -1,11 +1,11 @@
 # Elephant Exchange (Uniswap V2)
 
 
-[![npm](https://img.shields.io/npm/v/@elephantdefi/periphery?style=flat-square)](https://npmjs.com/package/@elephantdefi/periphery)
+[![npm](https://img.shields.io/npm/v/elephantdexcore/periphery?style=flat-square)](https://npmjs.com/package/elephantdexcore/periphery)
 
 In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@elephantdefi/periphery@latest/).
+The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/elephantdexcore/periphery@latest/).
 
 # Local Development
 

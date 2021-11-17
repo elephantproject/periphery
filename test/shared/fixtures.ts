@@ -4,8 +4,8 @@ import { deployContract } from 'ethereum-waffle'
 
 import { expandTo18Decimals } from './utilities'
 
-import UniswapV2Factory from '@elephantdefi/core/build/UniswapV2Factory.json'
-import IUniswapV2Pair from '@elephantdefi/core/build/IUniswapV2Pair.json'
+import UniswapV2Factory from 'elephantdexcore/build/UniswapV2Factory.json'
+import IUniswapV2Pair from 'elephantdexcore/build/IUniswapV2Pair.json'
 
 import ERC20 from '../../build/ERC20.json'
 import WETH9 from '../../build/WETH9.json'

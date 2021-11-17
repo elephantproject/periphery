@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity =0.6.12;
 
-import '@elephantdefi/core/contracts/interfaces/IUniswapV2Pair.sol';
-import '@elephantdefi/core/contracts/interfaces/IUniswapV2Factory.sol';
-import '@elephantdefi/lib/contracts/libraries/Babylonian.sol';
-import '@elephantdefi/lib/contracts/libraries/FullMath.sol';
+import 'elephantdexcore/contracts/interfaces/IUniswapV2Pair.sol';
+import 'elephantdexcore/contracts/interfaces/IUniswapV2Factory.sol';
+import 'elephantdexlib/contracts/libraries/Babylonian.sol';
+import 'elephantdexlib/contracts/libraries/FullMath.sol';
 
 import './SafeMath.sol';
 import './UniswapV2Library.sol';

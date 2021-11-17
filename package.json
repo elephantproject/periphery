@@ -1,6 +1,6 @@
 {
   "name": "elephantdexperiphery",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "🎚 Peripheral smart contracts for interacting with the Elephant Dex",
   "engines": {
     "node": ">=10"

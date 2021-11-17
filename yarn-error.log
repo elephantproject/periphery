@@ -87,18 +87,18 @@ Lockfile:
   # yarn lockfile v1
   
   
-  "@elephantdefi/core@1.5.6":
+  "elephantdexcore/core@1.5.6":
     version "1.5.6"
-    resolved "https://registry.yarnpkg.com/@elephantdefi/core/-/core-1.5.6.tgz#ecdbe32d7442c89583e2d4987507f883c3023812"
+    resolved "https://registry.yarnpkg.com/elephantdexcore/core/-/core-1.5.6.tgz#ecdbe32d7442c89583e2d4987507f883c3023812"
     integrity sha512-GOk37Mrn4+99//7X5sUF1/8gfvKyfZQC3GSgpCzV+j5T+tsaRhNfgV19zN+Ry8ISzPoddtCMyRyeYD/EdP7JRg==
     dependencies:
       "@harmony-js/core" "^0.1.57"
       dotenv "^10.0.0"
       tslib "^2.3.0"
   
-  "@elephantdefi/lib@0.0.1":
+  "elephantdexlib@0.0.1":
     version "0.0.1"
-    resolved "https://registry.yarnpkg.com/@elephantdefi/lib/-/lib-0.0.1.tgz#9e4cbded1fd6b3f61a14057863942f41dab09ba1"
+    resolved "https://registry.yarnpkg.com/elephantdexlib/-/lib-0.0.1.tgz#9e4cbded1fd6b3f61a14057863942f41dab09ba1"
     integrity sha512-6jWvgyS6sQIDrMkvhszuppoKeEXXPPRGUN/MxVKAq0pcgMY7S0RIqaBepK6pN9vYyp4yjLWErwY+BqO7ORAM2w==
   
   "@ethereum-waffle/chai@^2.5.1":

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity =0.6.12;
 
-import '@elephantdefi/lib/contracts/libraries/TransferHelper.sol';
+import 'elephantdexlib/contracts/libraries/TransferHelper.sol';
 
 import './interfaces/IUniswapV2Migrator.sol';
 import './interfaces/V1/IUniswapV1Factory.sol';

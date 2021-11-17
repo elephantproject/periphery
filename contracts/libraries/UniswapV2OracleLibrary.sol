@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity =0.6.12;
 
-import '@elephantdefi/core/contracts/interfaces/IUniswapV2Pair.sol';
-import '@elephantdefi/lib/contracts/libraries/FixedPoint.sol';
+import 'elephantdexcore/contracts/interfaces/IUniswapV2Pair.sol';
+import 'elephantdexlib/contracts/libraries/FixedPoint.sol';
 
 // library with helper methods for oracles that are concerned with computing average prices
 library UniswapV2OracleLibrary {
