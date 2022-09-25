@@ -1,6 +1,6 @@
 {
   "name": "elephantdexperiphery",
-  "version": "2.0.2",
+  "version": "5.8.5",
   "description": "🎚 Peripheral smart contracts for interacting with the Elephant Dex",
   "engines": {
     "node": ">=10"
@@ -13,6 +13,20 @@
   "files": [
     "build",
     "contracts"
+  ],
+  "keywords": [
+    "Elephant Dex",
+    "Elephant Swap",
+    "AMM",
+    "Cryptocurrency",
+    "Casino",
+    "Harmony",
+    "Defi",
+    "core",
+    "uniswap-v2",
+    "Elephant Project",
+    "Decentralized Token Exchange",
+    "Dex"
   ],
   "dependencies": {
     "elephantdexcore": "2.0.1",
